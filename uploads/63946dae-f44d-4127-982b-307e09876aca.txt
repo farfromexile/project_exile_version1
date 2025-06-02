@@ -1,0 +1,36 @@
+Ad: Ahmet Yılmaz
+Doğum Tarihi: 15.03.1985
+Meslek: Yazılım Mühendisi
+Uzmanlık: Python, React, FastAPI
+
+İş Deneyimi:
+- 2018-2023: Tech Solutions Ltd. - Kıdemli Yazılım Geliştirici
+- 2015-2018: Digital Systems Inc. - Yazılım Mühendisi
+- 2010-2015: WebTech Corp. - Junior Geliştirici
+
+Eğitim:
+- Bilgisayar Mühendisliği Yüksek Lisans (2008-2010)
+- Bilgisayar Mühendisliği Lisans (2003-2007)
+
+Projeler:
+1. Doküman Yönetim Sistemi
+   - Python ve FastAPI kullanılarak geliştirildi
+   - Büyük ölçekli doküman işleme ve analiz
+   - OCR entegrasyonu
+
+2. E-ticaret Platformu
+   - React ve Node.js tabanlı
+   - Mikroservis mimarisi
+   - Yüksek performanslı arama motoru
+
+İletişim:
+E-posta: ahmet.yilmaz@email.com
+Telefon: +90 555 123 4567
+LinkedIn: linkedin.com/in/ahmetyilmaz
+
+Yetenekler:
+- Backend: Python, Java, Node.js
+- Frontend: React, Vue.js, HTML5/CSS3
+- Veritabanı: PostgreSQL, MongoDB
+- DevOps: Docker, Kubernetes, AWS
+- Metodolojiler: Agile, Scrum, Kanban 

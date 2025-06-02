@@ -1,0 +1,59 @@
+[TABLO:Kişisel Bilgiler]
+Ad: Nihat Burak Şahin
+Doğum Tarihi: Bilinmiyor (belirtilmedi)
+Meslek: Siber Güvenlik ve Adli Bilişim Uzmanı
+Uzmanlık: Python, Kotlin, SQL, Web Uygulama Güvenliği, Android Geliştirme, Tersine Mühendislik, Flutter, MySQL, Windows Forms, FastAPI, React
+[/TABLO]
+
+[TABLO:İş Deneyimi]
+2023-2024: Siber Isparta Gençlik Merkezi – Siber Güvenlik Eğitmeni
+2022-2023: Freelance – Web Tabanlı Uygulama ve Mobil Uygulama Geliştirici
+2021-2022: Stajyer ve Bağımsız Güvenlik Araştırmacısı – Penetrasyon Testleri ve Geri Mühendislik
+[/TABLO]
+
+[TABLO:Eğitim]
+Bilgisayar Programcılığı (Mezun)
+CEH (Certified Ethical Hacker) Sertifikası
+Siber Güvenlik, Web3, Linux, Kubernetes, PostgreSQL, Tersine Mühendislik, Sayısal Kriptografi alanlarında birçok teknik eğitim tamamlandı
+[/TABLO]
+
+[TABLO:Projeler]
+
+Exile – Yerel Yapay Zekâ Asistanı
+PDF ve metin tabanlı bilgi kaynaklarına dayalı yerel yanıt sistemi
+Bilgi türü ayırımı (kişi, kitap, formül vb.)
+Gelişmiş ve zarif kullanıcı arayüzü
+
+Web Tabanlı Soru Yönetim Sistemi
+HTML, CSS ve JavaScript ile geliştirildi
+Soru ekleme, düzenleme, silme, zorluk seçimi ve sınav başlatma işlevleri
+Veritabanı: MySQL
+
+Flutter ile Offline-Online Senkronize Uygulama
+Kullanıcı verileri çevrimdışı olarak kaydedilir, çevrimiçi olunca senkronize edilir
+MySQL ile veri bağlantısı
+
+Windows Forms Çizim Uygulaması
+Tam ekran modu, şekil çizimi, kalınlık ve renk ayarı, resim yeniden boyutlandırma, kaydetme, yazdırma desteği
+
+SQL Injection Test Uygulamaları
+Burp Suite ile kullanıcı adı/şifre verisi elde etme
+Union-based SQL Injection teknikleriyle güvenlik testleri
+
+[/TABLO]
+
+[TABLO:İletişim]
+E-posta: Belirtilmedi
+Telefon: Belirtilmedi
+LinkedIn: Belirtilmedi
+[/TABLO]
+
+[TABLO:Yetenekler]
+Backend: Python, FastAPI, Node.js, Java
+Frontend: React, HTML5/CSS3, JavaScript
+Mobil: Kotlin, Flutter
+Veritabanı: MySQL, PostgreSQL
+DevOps: Docker, Kubernetes, AWS
+Siber Güvenlik: CEH, Tersine Mühendislik, SQL Injection, Web Uygulama Güvenliği
+Metodolojiler: Agile, Scrum, Kanban
+[/TABLO]
